@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Restaurants</string>'
+
+    <string name="main_activity_title">Discover</string>
+    <string name="main_activity_show_restaurant_button_title">Show me restaurants</string>
+    <string name="restaurant_fragment_list_load_error">Fail to load, please fresh</string>
+    <string name="main_activity_refresh_button">Refresh</string>
+
+</resources>
